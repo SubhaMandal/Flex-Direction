@@ -1,2 +1,2 @@
 # Flex-Direction
-Using flex direction, flex basis inside CSS to create something new in a webpage.
+Using flex direction and flex basis inside CSS to create something new in a webpage.
